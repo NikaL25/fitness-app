@@ -1,2 +1,1 @@
-
-This project is **free to use** and does not contains any license.
+## DEMO LIVE: https://nikal25.github.io/fitness-app/
